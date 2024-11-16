@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores básicos -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Colores de fondo -->
+    <color name="background_light">#F5F5F5</color>
+    <color name="background_dark">#212121</color>
+
+    <!-- Colores de texto -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_hint">#9E9E9E</color>
+    <color name="text_on_primary">#FFFFFFFF</color>
+
+    <!-- Colores de elementos destacados -->
+    <color name="primary">#6200EE</color> <!-- Morado -->
+    <color name="primary_variant">#3700B3</color>
+    <color name="secondary">#03DAC5</color> <!-- Turquesa -->
+    <color name="secondary_variant">#018786</color>
+
+    <!-- Colores de alerta -->
+    <color name="error">#B00020</color> <!-- Rojo -->
+    <color name="warning">#FFA000</color> <!-- Amarillo -->
+    <color name="success">#388E3C</color> <!-- Verde -->
+
+    <!-- Colores de tarjetas -->
+    <color name="card_background_light">#FFFFFF</color>
+    <color name="card_background_dark">#424242</color>
+    <color name="card_shadow">#33000000</color>
+
+    <!-- Colores de bordes y divisores -->
+    <color name="divider">#BDBDBD</color>
+    <color name="border">#E0E0E0</color>
+
+    <!-- Tonos grises -->
+    <color name="gray_light">#F5F5F5</color>
+    <color name="gray_medium">#BDBDBD</color>
+    <color name="gray_dark">#616161</color>
+</resources>
